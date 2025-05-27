@@ -11,8 +11,8 @@ local localPlayer = Players.LocalPlayer or Players.LocalPlayerAdded:Wait()
 local playerGui = localPlayer:WaitForChild("PlayerGui")
 
 local config = {
-    size = 0,
-    targetTransparency = 1,
+    size = 10,
+    targetTransparency = 0.8,
     targetColor = BrickColor.new("Really white"),
     targetMaterial = Enum.Material.Neon,
     canCollide = false
