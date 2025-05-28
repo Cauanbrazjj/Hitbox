@@ -1,4 +1,4 @@
--- V2 Hitbox by leeozyeb.
+-- V2 Hitbox by ceo.king.
 -- Update log: 
 -- Close Button
 -- Now, size is automatically updated without clicking the "Submit" Button.
@@ -42,7 +42,7 @@ titleLabel.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 titleLabel.Font = Enum.Font.SourceSansBold
 titleLabel.TextSize = 18
-titleLabel.Text = "Hitbox Changer V2"
+titleLabel.Text = "Mudar hitbox"
 titleLabel.Parent = mainFrame
 
 local closeButton = Instance.new("TextButton")
